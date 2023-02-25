@@ -1,2 +1,2 @@
-facebook.com, 881413919736174, DIRECT, c3e20eee3f780d68
+facebook.com, 881413919736174, RESELLER, c3e20eee3f780d68
 applovin.com, e7bc23d99e248740e745579117f09ebd, DIRECT
